@@ -1,0 +1,35 @@
+* {
+    background-color: #000;
+    margin: 0px;
+    padding: 0px;
+    /* height: 100%; */
+    box-sizing: border-box;
+}
+
+.homeImage {
+    float: left;
+    box-sizing: border-box;
+}
+
+.leftImage {
+    width: 770px;
+    height: 100%;
+    flex-shrink: 0;
+}
+
+p {
+    position: absolute;
+    left: 2%;
+    top: 81%;
+    background-color: transparent;
+    width: 570px;
+    height: 43px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 55.928px;
+    letter-spacing: 1.1px;
+}
